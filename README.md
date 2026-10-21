@@ -1,38 +1,9 @@
-# Hi 👋 I’m Zeyad Elganainy
+# Zeyad Elganainy
 
-📍 Kelowna, BC  
-🎓 **BSc Computer Science (Minor in Data Science)** — UBC Okanagan  
-💼 **Software Developer | Backend / Full-Stack**  
+Software developer in Kelowna, BC. I am co-founder and technical lead at ILM Analytics, where I lead the design and build of a Databricks data lakehouse for an enterprise client.
 
-I’m a software developer with real **production experience building backend services and REST APIs** in **C#/.NET**, with a strong focus on **reliability, data, and clean architecture**.
+Before that I spent a year at CentralSquare Technologies, delivering 30+ production features for a public-sector property tax platform in C#, ASP.NET Core, Angular and SQL Server, with tests written under TDD.
 
----
+Recent projects include [JobPilot](https://github.com/zeyadelganainy/job-agent-autopilot), a self-hosted job-application agent, and [WealthWise](https://github.com/zeyadelganainy/finance-tracker-api), a personal finance tracker. BSc Computer Science, Minor in Data Science, UBC Okanagan.
 
-## 🎯 Currently
-- Seeking **Junior / New-Grad Software Developer** roles (Canada)
-- Focused on **backend engineering, APIs, and cloud systems**
-- Developing **Finances Tracker**
-
----
-
-## 💻 Tech Stack
-
-### Languages
-<img src="https://skillicons.dev/icons?i=cs,java,python,ts,js,html,css,r" />
-
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,angular,nodejs,tensorflow,flask" />
-
-### Data, Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,gcp,docker,git" />
-
-### Tools & Practices
-- REST APIs • TDD • Unit Testing (xUnit, JUnit, Moq)
-- Agile / Scrum • Azure DevOps • Postman
-
----
-
-## 🔗 Connect
-- GitHub: https://github.com/zeyadelganainy  
-- LinkedIn: https://linkedin.com/in/zeyad-elganainy  
-- Email: ganainy@student.ubc.ca
+[zeyad.ca](https://zeyad.ca) · [LinkedIn](https://linkedin.com/in/zeyad-elganainy)
